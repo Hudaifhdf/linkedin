@@ -1,0 +1,340 @@
+body{
+    width: 1349;
+    margin: o;
+    padding: 0;
+}
+.link{
+    width:477.41px;
+    
+}
+h1{
+    color:#0a66c2;
+    font-family:Arial, Helvetica, sans-serif;
+    height:33.75;
+    width:135px;
+}
+.span1{
+    background:#0a66c2; 
+    color: white;
+    
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nav{
+    width: 1128px;
+    height:80px;
+    position: relative;
+    left:110.5px;
+    display: flex;
+    justify-content:row;
+    padding:5px;
+    
+}
+.navbut{
+    width:432px;
+    display: flex;
+    justify-content:row;
+    height: 80px;
+    opacity:0.6;
+    text-align: center;
+    display: flex;
+    /* padding: 10px; */
+    
+
+}
+.item{
+    list-style:none;
+    width:80px;
+    height:52px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #474747;
+}
+.item1{
+    list-style:none;
+    width:112px;
+   border:0 1px 0 1px solid;
+   justify-content: center;
+   align-items: center;
+   border-width:0 1px 0 1px;
+border-style:solid ;
+height:52px;
+font-size: 14px;
+cursor: pointer;
+color: #474747;
+
+
+}
+.sign{
+    
+    display: flex;
+    justify-content:row;
+    height: 52px;
+    /* align-items: flex-start; */
+   
+}
+.item2{
+    list-style:none;
+    width:120.81px;
+    margin-right:8px;
+    
+}
+.item3{
+    list-style:none;
+    width:110px;
+    
+
+    
+
+
+}
+.content{
+    width:1238px;
+    height:771.38;
+    
+    margin-left: 110px;
+}
+
+.main{
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 56px;
+    font-weight: 200;
+    color:#b24020;
+    width:578.39px;
+    height:134.38;
+}
+.form{
+width: 487px;
+height: 550px;
+padding: 1px 1px;
+
+}
+#tel{
+    width:374px;
+    height:22px;
+padding: 16px 14px;
+border-radius:5px;
+border: 1.5px solid rgb(77, 77, 77);
+
+} .f1{
+    margin-bottom: 8px;
+    color: var(--color-input-label);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color:rgb(102, 101, 101) ;
+    
+}
+#pwd{
+    width:374px;
+    height:22px;
+padding: 16px 14px;
+border-radius:5px;
+position: relative;
+border:1.5px solid rgb(77, 77, 77);
+top:8px;
+
+
+}
+.f2{ 
+    
+    color: var(--color-input-label);
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', 'Fira Sans', Ubuntu, Oxygen, 'Oxygen Sans', Cantarell, 'Droid Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    position: relative;
+    top:8px;
+    color:rgb(102, 101, 101) ;
+}
+
+.s1{
+    background-color:white;
+    width: 100%;
+   padding: 15px 22px 15px 22px;
+   border:0px solid #0a66c2;;
+   border-radius: 48px;
+   font-size: 15px;
+   font-weight: 600;
+    line-height: 1.25;
+    box-shadow: 0 0 0 1px;
+    color: #0a66c2;
+    
+    
+}
+.sign{
+display: flex;
+justify-content: space-between;
+    align-items:center;
+    font-family:-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Fira Sans,Ubuntu,Oxygen,Oxygen Sans,Cantarell,Droid Sans,Apple Color Emoji,Segoe UI Emoji,Segoe UI Emoji,Segoe UI Symbol,Lucida Grande,Helvetica,Arial,sans-serif;
+    
+}
+.s1:hover{
+
+    background-color:#ecf7fa;
+
+}
+
+.joi{
+    background-color:white;
+font-size: 16px;
+text-align: center;
+font-weight: 600;
+border-radius: 48px;
+font-size: 16px;
+padding: 12px 24px 12px 24px;
+border: none;
+line-height: 1.25;
+color: gray;
+}
+
+.joi:hover{
+    background-color: aliceblue;
+}
+.forg{
+font-size: 16px;
+font-weight:600;
+text-decoration: none;
+
+
+}
+.sin2{
+width:406px;
+height:58px;
+border: none;
+background-color: #0a66c2;
+border-radius:28px;
+color: white;
+font-size: 16px;
+font-weight:600;
+
+}
+hr{
+
+    width:170px;
+    /* margin:5px 0 5px 0; */
+}
+
+.line{
+    width:406px;
+
+    display: flex;
+    flex-direction: row;
+}
+span{
+
+    padding: 0 20px 0 20px;
+
+}
+.google{
+ width: 18px;
+ height:18px;
+ 
+}
+.gb{
+    width: 396px;
+    height: 38px;
+  font-weight:400;
+  text-align: center;
+  font-size: 14px;
+  font-family: "Google Sans",arial,sans-serif;
+  border-radius:19px;
+  border: 1.5px solid #3c4043;
+  margin-left: 6px;
+  background-color: white;
+}
+p{
+    font-size: 12px;
+    color: rgb(65, 64, 64);
+    margin-left: 20px;
+
+   
+}
+.SP1{
+    font-size: 13px;
+    text-decoration: none;
+    
+    color: #0a66c2;
+}
+.newj{
+    width:406px;
+height:48px;
+border-radius:28px;
+font-size: 16px;
+/* font-weight:600; */
+background-color: white;
+border: 1.5px solid #3c4043;
+color: #3c4043;
+
+
+
+
+
+}
+.homeimg{
+
+    width:700px;
+    height:560px;
+    position: relative;
+    left: 600px;
+    bottom: 600px;
+
+
+}
+.but{
+    border: none;
+    background-color: white;
+}
+#pwd:hover{
+     background-color: #f3f3f3;
+     border:2px solid black;
+
+   
+}
+#tel:hover{
+
+    background-color:#f3f3f3;
+    border:2px solid black;
+}
+.sin2:hover{
+    background-color: #05488b;
+}
+.gb:hover{
+background-color: #f3f3f3;
+border: 2px solid black;
+
+}
+.newj:hover{
+    background-color: #f3f3f3;
+}
+.forg:hover{
+   
+    text-decoration: underline;
+    
+
+
+}
+
+.item:hover{
+    color: #000000;
+}
+
+.item1:hover{
+    color: #000000;
+}
+
+.show{
+position: absolute;
+bottom: 132px;
+left:466px;
+font-size: 16px;
+font-weight: 500;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: #0a66c2;
+border: none;
+background-color:white;
+border-radius:40px;
+width: 15px;
+}
+.show:hover{
+    background-color: #f3f3f3;
+    border-radius: 20px;
+}
